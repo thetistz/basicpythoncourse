@@ -1,1 +1,1 @@
-# basicpythoncourse
+# basicpython-course
